@@ -1,14 +1,11 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Kunal+Pandey;Building+Backend+Projects;Learning+Spring+Boot;Java+Backend+Developer;DSA+Enthusiast" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1100&lines=Hi+👋,+I'm+Kunal+Pandey;Java+Backend+Developer;Spring+Boot+Learner;DSA+Enthusiast;Building+Backend+Projects;Learning+Spring+Security" />
+</p>
 
 <h3 align="center">
 Pre-Final Year ECE Student | Java Backend Developer | DSA Enthusiast
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Learner;DSA+Enthusiast;Building+Backend+Projects;Learning+Spring+Security" />
-</p>
 
 ---
 
