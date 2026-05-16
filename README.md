@@ -1,6 +1,5 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kunal+Pandey" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Kunal+Pandey;Building+Backend+Projects;Learning+Spring+Boot;Java+Backend+Developer;DSA+Enthusiast" />
 </h1>
 
 <h3 align="center">
